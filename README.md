@@ -52,6 +52,10 @@ This project analyzes housing sales data in King County, Washington, using Table
 
 <img width="1468" alt="Screenshot 2024-12-31 at 10 00 31 AM" src="https://github.com/user-attachments/assets/4602c6bb-58f2-4744-8439-eae29be7428f" />
 
+# Tableau Dashboard Link
+https://public.tableau.com/app/profile/asmita.deshpande/viz/HouseSales-WashingtonKingCounty/WashingtonKingCountyHouseSale
+
+
 ## Tools and Technologies
 
 - **Data Cleaning:** Python (pandas, numpy)
